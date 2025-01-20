@@ -1,0 +1,35 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "pathumudana",
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "{Microsoft IT Pro Community - Sri Lanka}",
+    "Country": "{Sri Lanka}",
+    "Url": "https://www.linkedin.com/company/microsoft-it-pro-community/",
+    "SessionizeApiId": "qmdzsnkk",
+    "SessionizeEventName": "Global Azure Boot Camp - Sri Lanka (Colombo)",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/qmdzsnkk/view/Sessions",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "Microsoft IT Pro Community - Sri Lanka logo.",
+      "File": "GlobalAzurecolombo.png"
+    },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "Colombo",
+        "Address": "Microsoft Sri Lanka - Office",
+        "StartDate": "2025-05-10",
+        "EndDate": "2025-05-10",
+        "Latitude": 6.919847,
+        "Longitude": 79.857397
+      }
+    ]
+  }
+}
